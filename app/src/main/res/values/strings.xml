@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">pertemuan4</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name="nama">Bambang Sumantri</string>
+    <string name="alamat">Turi, Sleman</string>
+    <string name="copy">Copyright, 2026</string>
+
+    <string name="nama_1">Gibran Fathoni</string>
+    <string name="phone_1">085436874190</string>
+    <string name="alamat_1">Kasihan, Bantul</string>
+
+    <string name="nama_2">Zhilal Fadhilah</string>
+    <string name="phone_2">085436874190</string>
+    <string name="alamat_2">Depok, Sleman</string>
+
+    <!-- Data Card 3 -->
+    <string name="nama_3">Ahmad Alfian</string>
+    <string name="phone_3">085436874190</string>
+    <string name="alamat_3">Gamping, Sleman</string>
+
+</resources>
